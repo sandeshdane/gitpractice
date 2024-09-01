@@ -1,1 +1,4 @@
-you can read this 
+i trying to for 1 hour but my code is not did not push 
+then i remember one command is not fired when i fired below command
+"git remote add origin <repo link>" then i got success for push code 
+ 
